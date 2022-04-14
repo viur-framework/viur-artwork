@@ -1,39 +1,28 @@
 # ViUR Artwork
 
-This repository contains artwork relating the [ViUR framework](https://www.viur.dev). It is licensed by Creative Commons CC-BY-SA 4.0.
+This repository contains artwork relating the [ViUR framework](https://www.viur.dev).
 
----
+## Logo
 
-## logo-red
+The ViUR logo. See [logo/README.md](logo/README.md) for the logo files in different versions.
 
-### logo-red.svg
-![logo-red.svg](logo-red.svg)
+## Icons
 
-### rendered/logo-red.png
-![rendered/logo-red.png](rendered/logo-red.png)
+The ViUR components icons. See [icons/README.md](icons/README.md) for the icon files in different versions.
 
-### rendered/logo-red.webp
-![rendered/logo-red.webp](rendered/logo-red.webp)
+Don't confuse with the [viur-icons](https://github.com/viur-framework/viur-icons) repository which contains a set of common icons used across several ViUR projects and applications.
 
-## logo-white
+## Maintenance
 
-### logo-white.svg
-![logo-white.svg](logo-white.svg)
+To generate the in the sub folders README.md files and the rendered `.png` and `.webp` versions of the `.svg`-source files, use the `gen-readme.py` script from this repository.
 
-### rendered/logo-white.png
-![rendered/logo-white.png](rendered/logo-white.png)
+Example:
+```sh
+$ cd logo
+$ python ../gen-readme.py >README.md
+```
 
-### rendered/logo-white.webp
-![rendered/logo-white.webp](rendered/logo-white.webp)
+## License
 
-## logo
-
-### logo.svg
-![logo.svg](logo.svg)
-
-### rendered/logo.png
-![rendered/logo.png](rendered/logo.png)
-
-### rendered/logo.webp
-![rendered/logo.webp](rendered/logo.webp)
-
+Copyright © 2022 by Mausbrand Informationssysteme GmbH.<br>
+Licensed under Creative Commons CC-BY-SA 4.0.

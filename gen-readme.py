@@ -10,13 +10,6 @@ output_width = 2000
 
 os.makedirs(output_folder, exist_ok=True)
 
-print("""# ViUR Artwork
-
-This repository contains artwork relating the [ViUR framework](https://www.viur.dev). It is licensed by Creative Commons CC-BY-SA 4.0.
-
----
-""")
-
 for svg in sorted(glob.glob("*.svg")):
 	base = svg.removesuffix(".svg")
 
