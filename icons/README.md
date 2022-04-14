@@ -86,3 +86,14 @@
 ### rendered/icon-vi.webp
 ![rendered/icon-vi.webp](rendered/icon-vi.webp)
 
+## logo-v-red
+
+### logo-v-red.svg
+![logo-v-red.svg](logo-v-red.svg)
+
+### rendered/logo-v-red.png
+![rendered/logo-v-red.png](rendered/logo-v-red.png)
+
+### rendered/logo-v-red.webp
+![rendered/logo-v-red.webp](rendered/logo-v-red.webp)
+

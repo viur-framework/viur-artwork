@@ -14,7 +14,7 @@ Don't confuse with the [viur-icons](https://github.com/viur-framework/viur-icons
 
 ## Maintenance
 
-To generate the in the sub folders README.md files and the rendered `.png` and `.webp` versions of the `.svg`-source files, use the `gen-readme.py` script from this repository.
+To generate the sub folders' README.md files and the rendered `.png` and `.webp` versions of the `.svg`-source files, use the `gen-readme.py` script from this repository.
 
 Example:
 ```sh
