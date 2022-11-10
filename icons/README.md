@@ -31,6 +31,17 @@
 ### rendered/icon-core.webp
 ![rendered/icon-core.webp](rendered/icon-core.webp)
 
+## icon-docs
+
+### icon-docs.svg
+![icon-docs.svg](icon-docs.svg)
+
+### rendered/icon-docs.png
+![rendered/icon-docs.png](rendered/icon-docs.png)
+
+### rendered/icon-docs.webp
+![rendered/icon-docs.webp](rendered/icon-docs.webp)
+
 ## icon-flare
 
 ### icon-flare.svg
@@ -52,6 +63,17 @@
 
 ### rendered/icon-html5.webp
 ![rendered/icon-html5.webp](rendered/icon-html5.webp)
+
+## icon-icons
+
+### icon-icons.svg
+![icon-icons.svg](icon-icons.svg)
+
+### rendered/icon-icons.png
+![rendered/icon-icons.png](rendered/icon-icons.png)
+
+### rendered/icon-icons.webp
+![rendered/icon-icons.webp](rendered/icon-icons.webp)
 
 ## icon-ignite
 
