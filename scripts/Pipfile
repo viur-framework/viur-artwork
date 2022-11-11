@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+svgelements = "*"
+cairosvg = "*"
+pillow = "*"
+
+[dev-packages]
+
+[scripts]
+clean = "bash -c 'python svg_cleaning.py && python svg_to_rendered.py'"
+
+[requires]
+python_version = "3.10"

@@ -18,8 +18,17 @@ To generate the sub folders' README.md files and the rendered `.png` and `.webp`
 
 Example:
 ```sh
-$ cd logo
-$ python ../gen-readme.py >README.md
+$ cd scripts
+$ pipenv install
+$ pipenv run clean
+```
+
+### Dependencies
+For svg to png conversion is the cairo Systemlibrary required. 
+#### MacOS
+To install this you need the brew tool:
+```sh
+$ brew install cairo
 ```
 
 ## License
