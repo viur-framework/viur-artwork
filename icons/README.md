@@ -20,6 +20,17 @@
 ### rendered/icon-base.webp
 ![rendered/icon-base.webp](rendered/icon-base.webp)
 
+## icon-cli
+
+### icon-cli.svg
+![icon-cli.svg](icon-cli.svg)
+
+### rendered/icon-cli.png
+![rendered/icon-cli.png](rendered/icon-cli.png)
+
+### rendered/icon-cli.webp
+![rendered/icon-cli.webp](rendered/icon-cli.webp)
+
 ## icon-control
 
 ### icon-control.svg
@@ -129,6 +140,17 @@
 
 ### rendered/icon-scriptor.webp
 ![rendered/icon-scriptor.webp](rendered/icon-scriptor.webp)
+
+## icon-shoelace
+
+### icon-shoelace.svg
+![icon-shoelace.svg](icon-shoelace.svg)
+
+### rendered/icon-shoelace.png
+![rendered/icon-shoelace.png](rendered/icon-shoelace.png)
+
+### rendered/icon-shoelace.webp
+![rendered/icon-shoelace.webp](rendered/icon-shoelace.webp)
 
 ## icon-vi
 
