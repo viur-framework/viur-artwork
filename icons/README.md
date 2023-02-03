@@ -1,3 +1,14 @@
+## icon-appserver
+
+### icon-appserver.svg
+![icon-appserver.svg](icon-appserver.svg)
+
+### rendered/icon-appserver.png
+![rendered/icon-appserver.png](rendered/icon-appserver.png)
+
+### rendered/icon-appserver.webp
+![rendered/icon-appserver.webp](rendered/icon-appserver.webp)
+
 ## icon-base
 
 ### icon-base.svg
@@ -30,6 +41,17 @@
 
 ### rendered/icon-core.webp
 ![rendered/icon-core.webp](rendered/icon-core.webp)
+
+## icon-datastore
+
+### icon-datastore.svg
+![icon-datastore.svg](icon-datastore.svg)
+
+### rendered/icon-datastore.png
+![rendered/icon-datastore.png](rendered/icon-datastore.png)
+
+### rendered/icon-datastore.webp
+![rendered/icon-datastore.webp](rendered/icon-datastore.webp)
 
 ## icon-docs
 
@@ -97,6 +119,17 @@
 ### rendered/icon-logics.webp
 ![rendered/icon-logics.webp](rendered/icon-logics.webp)
 
+## icon-scriptor
+
+### icon-scriptor.svg
+![icon-scriptor.svg](icon-scriptor.svg)
+
+### rendered/icon-scriptor.png
+![rendered/icon-scriptor.png](rendered/icon-scriptor.png)
+
+### rendered/icon-scriptor.webp
+![rendered/icon-scriptor.webp](rendered/icon-scriptor.webp)
+
 ## icon-vi
 
 ### icon-vi.svg
@@ -107,6 +140,17 @@
 
 ### rendered/icon-vi.webp
 ![rendered/icon-vi.webp](rendered/icon-vi.webp)
+
+## icon-vue
+
+### icon-vue.svg
+![icon-vue.svg](icon-vue.svg)
+
+### rendered/icon-vue.png
+![rendered/icon-vue.png](rendered/icon-vue.png)
+
+### rendered/icon-vue.webp
+![rendered/icon-vue.webp](rendered/icon-vue.webp)
 
 ## logo-v-red
 
