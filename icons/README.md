@@ -1,3 +1,14 @@
+## icon-admin
+
+### icon-admin.svg
+![icon-admin.svg](icon-admin.svg)
+
+### rendered/icon-admin.png
+![rendered/icon-admin.png](rendered/icon-admin.png)
+
+### rendered/icon-admin.webp
+![rendered/icon-admin.webp](rendered/icon-admin.webp)
+
 ## icon-appserver
 
 ### icon-appserver.svg
@@ -8,6 +19,17 @@
 
 ### rendered/icon-appserver.webp
 ![rendered/icon-appserver.webp](rendered/icon-appserver.webp)
+
+## icon-artwork
+
+### icon-artwork.svg
+![icon-artwork.svg](icon-artwork.svg)
+
+### rendered/icon-artwork.png
+![rendered/icon-artwork.png](rendered/icon-artwork.png)
+
+### rendered/icon-artwork.webp
+![rendered/icon-artwork.webp](rendered/icon-artwork.webp)
 
 ## icon-base
 
@@ -152,6 +174,39 @@
 ### rendered/icon-shoelace.webp
 ![rendered/icon-shoelace.webp](rendered/icon-shoelace.webp)
 
+## icon-shop-components
+
+### icon-shop-components.svg
+![icon-shop-components.svg](icon-shop-components.svg)
+
+### rendered/icon-shop-components.png
+![rendered/icon-shop-components.png](rendered/icon-shop-components.png)
+
+### rendered/icon-shop-components.webp
+![rendered/icon-shop-components.webp](rendered/icon-shop-components.webp)
+
+## icon-shop
+
+### icon-shop.svg
+![icon-shop.svg](icon-shop.svg)
+
+### rendered/icon-shop.png
+![rendered/icon-shop.png](rendered/icon-shop.png)
+
+### rendered/icon-shop.webp
+![rendered/icon-shop.webp](rendered/icon-shop.webp)
+
+## icon-toolkit
+
+### icon-toolkit.svg
+![icon-toolkit.svg](icon-toolkit.svg)
+
+### rendered/icon-toolkit.png
+![rendered/icon-toolkit.png](rendered/icon-toolkit.png)
+
+### rendered/icon-toolkit.webp
+![rendered/icon-toolkit.webp](rendered/icon-toolkit.webp)
+
 ## icon-vi
 
 ### icon-vi.svg
@@ -163,16 +218,27 @@
 ### rendered/icon-vi.webp
 ![rendered/icon-vi.webp](rendered/icon-vi.webp)
 
-## icon-vue
+## icon-vue-components
 
-### icon-vue.svg
-![icon-vue.svg](icon-vue.svg)
+### icon-vue-components.svg
+![icon-vue-components.svg](icon-vue-components.svg)
 
-### rendered/icon-vue.png
-![rendered/icon-vue.png](rendered/icon-vue.png)
+### rendered/icon-vue-components.png
+![rendered/icon-vue-components.png](rendered/icon-vue-components.png)
 
-### rendered/icon-vue.webp
-![rendered/icon-vue.webp](rendered/icon-vue.webp)
+### rendered/icon-vue-components.webp
+![rendered/icon-vue-components.webp](rendered/icon-vue-components.webp)
+
+## icon-vue-utils
+
+### icon-vue-utils.svg
+![icon-vue-utils.svg](icon-vue-utils.svg)
+
+### rendered/icon-vue-utils.png
+![rendered/icon-vue-utils.png](rendered/icon-vue-utils.png)
+
+### rendered/icon-vue-utils.webp
+![rendered/icon-vue-utils.webp](rendered/icon-vue-utils.webp)
 
 ## logo-v-red
 
